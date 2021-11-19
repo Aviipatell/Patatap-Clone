@@ -4,7 +4,7 @@ Created a fun web application similar to patatap.com using a variety of librarie
 
 # Getting Started: 
 
-You can view this web application through clicking on this link: https://aviipatell.github.io/work/patatap/patatap.html. You could also download all the files and put it into a folder on your desktop and then run the "patatap.html" file on a live server or a browser of your choice. 
+Use git clone to download this project and open up the patatap.html file on a browser of your choice. Then type any letter on your keyboard to generate a colorful circle and some cool music!
 
 # Prerequisites: 
 
