@@ -18,7 +18,7 @@ Project was built with HTML, CSS, and JavaScript using the text editor VS Code. 
 
 Avi Patel
 
-# Achknowledgements: 
+# Acknowledgments: 
 
 Colt Steele - Followed his tutorial on his Web Development Bootcamp course on Udemy. 
 
