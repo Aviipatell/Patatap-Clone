@@ -1,6 +1,6 @@
 # Patatap Clone
 
-Created a fun web application similar to patatap.com using a variety of libraries such as Paper.js and Howler.js. 
+Created a fun web application similar to patatap.com using a variety of libraries such as Paper.js and Howler.js. View live: [Patatap Clone](https://aviipatell.github.io/Patatap-Clone/)
 
 ## Getting Started: 
 
