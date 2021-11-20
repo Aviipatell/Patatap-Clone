@@ -4,7 +4,7 @@ Created a fun web application similar to patatap.com using a variety of librarie
 
 ## Getting Started: 
 
-Use git clone to download this project and open up the patatap.html file on a browser of your choice. Then type any letter on your keyboard to generate a colorful circle and some cool music!
+Use `git clone` to download this project and open up the index.html file on a browser of your choice. Then type any letter on your keyboard to generate a colorful circle and some cool music!
 
 ## Prerequisites: 
 
